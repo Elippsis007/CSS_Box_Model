@@ -8,4 +8,4 @@ CSS and the Box Model to create my own Rothko-style rectangular art pieces.
 This is a quick CSS project I coded alongside FreeCodeCamp CSS course.
 
 ## Deployed Site
-[View CSS Box Model here: ][()]
+[View CSS Box Model here: ][(https://elippsis007.github.io/CSS_Box_Model/)]
